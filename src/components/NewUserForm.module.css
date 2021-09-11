@@ -1,0 +1,19 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  height: 420px;
+  padding: 5px;
+  justify-content: space-between;
+}
+
+.button-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.new-user {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
